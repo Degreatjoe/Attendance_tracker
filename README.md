@@ -1,10 +1,11 @@
 # Attendance Tracker
 
-A simple C# application for tracking attendance, designed for BYU-Pathway Worldwide. This project enables users to record, manage, and review attendance data efficiently.
+A simple C# application for tracking attendance, designed for Seminary Class. This project enables users to record, manage, and review attendance data efficiently.
 
 ## Features
 
 - Add, edit, and delete attendance records
+- Add, edit, and delete user information.
 - View attendance history
 - Export attendance data
 - User-friendly interface
@@ -13,7 +14,7 @@ A simple C# application for tracking attendance, designed for BYU-Pathway Worldw
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Attendance_tracker.git
+    git clone https://github.com/degreatjoe/Attendance_tracker.git
     ```
 2. Open the solution file (`Attendance_tracker.sln`) in Visual Studio.
 3. Restore NuGet packages and build the project.
