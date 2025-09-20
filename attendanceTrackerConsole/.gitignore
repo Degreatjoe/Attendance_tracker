@@ -1,0 +1,82 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+TestResults/
+out/
+*.log
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# Others
+*.dbmdl
+*.pdb
+*.cache
+*.config
+*.vspscc
+*.vssscc
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Publish
+publish/
+*.publishsettings
+
+# Entity Framework
+migrations/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Node.js
+node_modules/
+
+# Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# DotCover
+*.dotCover
+
+# StyleCop
+StyleCopReport.xml
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Others
+*.sqlite
+*.mdf
+*.ldf
